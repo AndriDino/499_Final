@@ -1,6 +1,15 @@
 $color-main:#F8F7F4;
 $color-main-dark:darken($color-main,20%);
 $color-body-text: #F8F7F4;
+<<<<<<< HEAD
+=======
+$color-bg-dark: #1C1C1C;
+$color-bg-lightdark: #262626;
+$color-purewhite: #FFFFFF;
+$color-dark-gray: #A9A9A9;
+$color-red: #FF6161;
+$color-purple: #7B78FF;
+>>>>>>> 207bc2fc5d0591acb010c247b77cb28af067651b
 
 $color-body-background: #0F1313;
 $color-body-background-light: lighten($color-body-background,30%);
@@ -10,6 +19,15 @@ $color-main-transition-yellow:#FF876C;
 $color-main-transition-red:#FF5C4F;
 $color-main-red:#FF3232;
 
+<<<<<<< HEAD
+=======
+// List of Font Weight
+$regular: 400;
+$medium: 500;
+$bold: 700;
+$black: 900;
+
+>>>>>>> 207bc2fc5d0591acb010c247b77cb28af067651b
 //List of maps
 
 $breakpoints:(
@@ -113,6 +131,17 @@ $gap:map-get($spacers,'l');
 $header-height: 3rem;
 
 :root {
+<<<<<<< HEAD
+=======
+
+	--color-purple:#{$color-purple};
+	--color-red:#{$color-red};
+	--color-purewhite:#{$color-purewhite};
+	--color-bg-dark:#{$color-bg-dark};
+	--color-bg-lightdark:#{$color-bg-lightdark};
+	--color-dark-gray:#{$color-dark-gray};
+
+>>>>>>> 207bc2fc5d0591acb010c247b77cb28af067651b
 	--main-color:#{$color-main};
 	--border-color: 248, 247, 244;
 	--main-color-dark:#{$color-main-dark};
